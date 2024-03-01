@@ -1,0 +1,13 @@
+@font-face {
+    font-family: 'Armalite Rifle';
+    src: url('ArmaliteRifle.eot');
+    src: url('ArmaliteRifle.eot?#iefix') format('embedded-opentype'),
+        url('ArmaliteRifle.woff2') format('woff2'),
+        url('ArmaliteRifle.woff') format('woff'),
+        url('ArmaliteRifle.ttf') format('truetype'),
+        url('ArmaliteRifle.svg#ArmaliteRifle') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
